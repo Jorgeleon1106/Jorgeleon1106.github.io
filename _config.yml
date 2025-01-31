@@ -3,3 +3,9 @@ Title: Jorge León
 #
 #
 theme: jekyll-theme-cayman
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+exclude:
+  - "CNAME"
